@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "ldapauth-fork": "git+https://github.com/zekizeki/node-ldapauth-fork.git"
+    "ldapauth-fork": "git://github.com/zekizeki/node-ldapauth-fork.git"
   },
   "devDependencies": {
     "body-parser": "1.14.x",
